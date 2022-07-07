@@ -1,0 +1,17 @@
+
+B) Cofla vuelve de la comisaría exhausto y por lo cansado que estaba se fue a dormir
+Al otro día comienzan las clases del ciclo básico de la Universidad, (Porque Cofla
+quiere ser programadir y se inscribió en la facultad de ingeniería para estudiar
+desarrollo de software).
+En su curso en total son 19 alumnos, pero surgió un problema que complicó un poco
+a la facultad:
+Se rompió el sistema de registro de asistencias y durante los próximos 30 días
+no se podrán hacer registros de datos de ningún tipo, por ende las clases no podrán
+comenzar hasta que esto este solucionado.
+
+    -Crear mini-sistema que nos permita registrar los alumnos que están presentes (P)
+    y Ausentes (A) en clase.
+    -Pasados los 30 días, mostrar la situación final de todos los alumnos (n° total de
+    presentes y ausentes).
+    -Se puede tener un máximo de 10% de ausencias por semestre, si se tienen más 
+    aclarar que está reprobado.

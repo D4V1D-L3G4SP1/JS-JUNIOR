@@ -1,0 +1,5 @@
+-Cofla feliz por haber empezado las clases volvió a su casa y ya tiene tarea básica de cálculo;
+tiene que hacer un par de ejercicics de matemática que incluyen suma, resta, división y multiplicación,
+realizar ésto con una calculadora debería ser más sencillo.
+
+    -Crear una calculadora que nos sumplifique el trabajo.
