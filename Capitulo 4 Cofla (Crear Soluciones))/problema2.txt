@@ -1,0 +1,18 @@
+B)La facultad de Cofla está por comenzar y ya las 12
+materias de la carrera tienen asignado a un profesor
+y todos los alumnos que se anotaron en dichas clases,
+pero necesitamos ver ésto más ordenadamente.
+
+CREAR SOLUCIONES:
+    -Crear una función que al pasarle como parámetro la
+    materia nos devuelva:
+        *Profesor asignado.
+        *El nombre de todos los alumnos.
+    -Crear función que nos diga en cuantas clases está
+    Cofla.
+    -Nombrar las clases en las que está y los profesores
+    de cada una.
+
+    Sentencia if 
+    Array
+    

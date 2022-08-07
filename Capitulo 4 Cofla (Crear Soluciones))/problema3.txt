@@ -1,0 +1,12 @@
+c)Cofla ya vió las 12 materias y se decidió en
+cual se va a inscribir así que en 3 días lo
+hará, el problema es que se rompió el sistema
+de inscripciones.
+
+CREAR SOLUCIONES:
+    -Crear una función para preguntarle a Cofla
+    en que materia se quiere inscribir.
+    -Si ya hay 10 alumnos anotados en la materia
+    negarle la inscripción.
+    -Si hay menos de 10 alumnos, inscribir a
+    Cofla y añadirlo a la lista de alumnos.
