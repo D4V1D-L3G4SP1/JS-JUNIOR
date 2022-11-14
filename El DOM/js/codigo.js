@@ -209,6 +209,7 @@ form -Funciona para hacer un input parte de un formulario que no esté dentro de
 
             NOTA;***REcordemos que una etiqueta form que contenga un input de type="submit"
             lo que hace es enviar los valores del formulario a un Servidor.
+            
 
 minLength -Atributo que nos permite especificar cuántos caracteres son los mínimos requeridos para enviar
             el formulario.

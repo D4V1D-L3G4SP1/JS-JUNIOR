@@ -1,0 +1,25 @@
+Cofla se quedó encerrado en su casa porque se le
+rompió la llave, pero necesita ir urgente a la
+facultad porque no puede faltar ni una sola vez
+si quiere aprobar las materias que le faltan,
+ya que está al límite de asistencias, entonces
+tiene que llamar a un cerrajero, y pedirle que
+traiga la llave indicada, no hay tiempo suficiente
+como para que el cerrajero vea cual es la llave
+indicada, sólo puede traer una y probar, entonces
+Cofla se da cuenta que es una llave antigua, por
+ende no hace falta afilarla, sólo necesita 
+decirle el modelo de llave para que el cerrajero
+venga, pero Cofla tiene tanta mala suerte que
+ni siquiera tiene internet para poder buscar, lo
+que si tiene es a un programador que le hará un
+sistema para mostrarle las llaves posibles y 
+determinar cuál es la indicada, hay sólo 10
+modelos posibles, permitir que Cofla seleccione
+el indicado.
+
+Crear sistema que le muestre a Cofla las 10
+llaves posibles, con sus 4 imagenes y Cofla
+debe seleccionar cual llave elegir, una vez que
+Cofla seleccionó la llave, envía los datos al
+servidor, otro programador se encargará del resto.
